@@ -27,6 +27,8 @@ Each wargame is accessible via SSH, with specific connection details provided on
 
 The repository is organized into directories corresponding to each wargame. Within each directory, you'll find Bash scripts containing the necessary commands to solve the corresponding level.
 
+---
+
 ## How to Use
 
 1. Begin by cloning this repository to your local machine:
@@ -38,6 +40,8 @@ git clone https://github.com/GiatrasKon/OverTheWire-Wargames-Solutions.git
 cd Bandit
 ```
 3. Review its contents to understand the commands and execute them. Observe the output and understand each step involved in solving the level. This will enhance your learning experience and deepen your comprehension of the underlying concepts.
+
+---
 
 ## Disclaimer
 
